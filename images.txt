@@ -4,3 +4,4 @@ redis:6.2.14
 halohub/halo:2.19
 zlmediakit/zlmediakit:master
 phpmyadmin/phpmyadmin:5.2.1
+openjdk:11
