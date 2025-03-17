@@ -5,3 +5,4 @@ halohub/halo:2.19
 zlmediakit/zlmediakit:master
 phpmyadmin/phpmyadmin:5.2.1
 openjdk:11
+zllcwy/wvp-pro-assist:20240129
