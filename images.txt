@@ -1,6 +1,7 @@
 nginx
 mysql:8.0.37
 redis:6.2.14
+bitnami/redis:7.2.0-debian-11-r0
 halohub/halo:2.19
 zlmediakit/zlmediakit:master
 phpmyadmin/phpmyadmin:5.2.1
